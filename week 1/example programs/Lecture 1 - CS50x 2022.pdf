@@ -1,0 +1,5 @@
+Prompt user for height
+If height is less than 1 or greater than 8 (or not an integer at all), go back one step
+Iterate from 1 through inputted height:
+If row less than height
+  On iteration, print (height-1) spaces, print (height-space) hash and then a newline
